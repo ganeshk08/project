@@ -1,2 +1,3 @@
 # project
-project repo
+project repo for git commands demonstration
+
